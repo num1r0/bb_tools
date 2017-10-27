@@ -1,5 +1,8 @@
 """
 Simple random pattern generator script
+
+TO DO:
+    - Add pattern search function (used for EIP detection)
 """
 
 import sys
