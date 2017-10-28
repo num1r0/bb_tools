@@ -2,7 +2,8 @@
 Simple random pattern generator script
 
 TO DO:
-    - Add buffer size computation function (used for EIP detection)
+    - Add Big Endian support
+    - Add usage function
 """
 
 import sys
